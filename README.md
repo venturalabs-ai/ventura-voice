@@ -1,42 +1,38 @@
-# VenturaVoice
+# 📄 README Template Padrão
 
-![Status](https://img.shields.io/badge/status-incubation-orange)
-![Python](https://img.shields.io/badge/python-3.11%2B-blue)
-![License](https://img.shields.io/github/license/venturalabs-ai/ventura-voice)
+## Preencher conforme o repositório
 
-**Laboratório de processamento de voz com IA para transcrição, síntese, diarização e análise de áudio.**
+# Nome do Repositório
 
-> Ecossistema Ventura · [Ventura Studio](https://github.com/venturalabs-ai/ventura-studio)
+> **Descrição curta do que este repositório faz**
 
-## Maturidade
+## 🛠 Tecnologias
 
-**Incubation / experimental.** Ainda não deve ser apresentado como plataforma pronta para produção.
+- Linguagem: [Python/TypeScript/Etc.]
+- Framework: [Nome do framework]
+- Ferramentas: [Ferramentas usadas]
 
-## Escopo planejado
+## 🚀 Quick Start
 
-- transcrição de fala;
-- síntese de voz;
-- diarização de falantes;
-- análise de características de áudio;
-- API para processamento assíncrono.
+```bash
+# Instruções de setup
+git clone https://github.com/venturalabs-ai/[repo-name].git
+cd [repo-name]
+# Comandos de instalação
+```
 
-## Stack alvo
+## 📦 Licença
 
-`Python` · `PyTorch` · `Whisper` · `FastAPI` · `Librosa` · `Docker`
+[MIT License](LICENSE)
 
-## Uso responsável
+## 🤝 Como Contribuir
 
-O uso deve respeitar consentimento, privacidade, direitos de voz e legislação aplicável. Clonagem de voz ou processamento de terceiros sem autorização não faz parte do objetivo do projeto.
+1. Fork o repositório
+2. Crie uma branch (`git checkout -b feature/nova-funcionalidade`)
+3. Commit suas mudanças (`git commit -m 'feat: adicionar nova funcionalidade'`)
+4. Push para a branch (`git push origin feature/nova-funcionalidade`)
+5. Abra um Pull Request
 
-## Critérios para Beta
+## 📞 Contato
 
-- pipeline funcional ponta a ponta;
-- exemplos de áudio com licença adequada;
-- testes automatizados;
-- CI bloqueante;
-- métricas e limitações documentadas;
-- release inicial.
-
-## Licença
-
-Consulte [LICENSE](LICENSE).
+- GitHub: [@venturalabs-ai](https://github.com/venturalabs-ai)
